@@ -1,3 +1,6 @@
+I have added a new line on this new branch and removed two lines
+
+
 this is a sample text i am using to get used to github
 
 linebreak
@@ -7,7 +10,3 @@ two line breaks
 
 
 this is a fourth line added in later
-
-adding in a fifth line under the fourth 
-
-three line breaks and a dash -
